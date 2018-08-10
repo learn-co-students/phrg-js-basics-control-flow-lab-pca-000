@@ -146,5 +146,9 @@ through the assignment,.
 
 Good luck!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-basics-control-flow-lab/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-basics-control-flow-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-basics-flow-control'>Control Flow Lab</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Control Flow Lab</p>
